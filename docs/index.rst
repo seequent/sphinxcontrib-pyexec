@@ -17,24 +17,22 @@ documentation <http://propertiespy.readthedocs.io/>`_.
 Setup
 =====
 
-PyExec is on `pip <https://pypi.python.org/pypi/sphinxcontrib-pyexec>`
+PyExec is on `pip <https://pypi.python.org/pypi/sphinxcontrib-pyexec>`_::
 
-.. code::
     pip install sphinxcontrib-pyexec
 
-or install from source
+or install from source::
 
-.. code::
     git clone https://github.com/3ptscience/sphinxcontrib-pyexec/
 
-In the conf.py for your documentation, make sure you import pyexec
+In the conf.py for your documentation, make sure you import pyexec::
 
-.. code::
     import pyexec
 
 and add :code:`pyexec` to your extensions.
 
-.. code::
+.. code:: python
+
     extensions = ['pyexec']
 
 Based on
