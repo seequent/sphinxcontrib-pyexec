@@ -4,13 +4,18 @@ PyExec
 A sphinx extension for running python code and displaying both the input and
 output `sphinx documentation <http://www.sphinx-doc.org/>`_.
 
-In the ReStructuredText file, use the `exec` environment.
+In the ReStructuredText file, use the `exec` environment.::
+
+    .. exec::
+        print 2 + 2
+
 To output python code & the results in your documentation.
 
 .. exec::
     print 2 + 2
 
-Note that you need to include the `print` statement for the output to be
+
+Note that you need to include the :code:`print` statement for the output to be
 shown. To see it in action, checkout the `Properties
 documentation <http://propertiespy.readthedocs.io/>`_.
 
