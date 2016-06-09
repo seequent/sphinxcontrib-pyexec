@@ -30,7 +30,7 @@ or install from source
 In the conf.py for your documentation, make sure you import pyexec
 
 .. code::
-    from sphinxcontrib-pyexec import pyexec
+    import pyexec
 
 and add :code:`pyexec` to your extensions.
 

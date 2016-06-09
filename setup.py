@@ -25,6 +25,7 @@ setup(
     version = '0.0.2',
     packages = find_packages(),
     install_requires = ['sphinx',
+                        'docutils',
                        ],
     author = 'Lindsey Heagy',
     author_email = 'lindsey@3ptscience.com',
