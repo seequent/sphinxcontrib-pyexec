@@ -1,4 +1,4 @@
-PyExec
+pyexec
 ======
 
 A sphinx extension for running python code and displaying both the input and
