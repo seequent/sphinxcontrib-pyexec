@@ -1,5 +1,6 @@
 import sys
 from os.path import basename
+import pkg_resources
 
 try:
     from StringIO import StringIO
