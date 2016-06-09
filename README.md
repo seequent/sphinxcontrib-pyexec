@@ -1,5 +1,8 @@
 # PyExec
 
+[![Documentation Status](https://readthedocs.org/projects/sphinxcontrib-pyexec/badge/?version=latest)](http://sphinxcontrib-pyexec.readthedocs.io/en/latest/?badge=latest)
+
+
 A sphinx extension for running python code and displaying both the input and
 output [sphinx documentation](http://www.sphinx-doc.org/). 
 
