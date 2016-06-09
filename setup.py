@@ -22,7 +22,7 @@ with open('README.md') as fp:
 
 setup(
     name = 'sphinxcontrib-pyexec',
-    version = '0.0.2',
+    version = '0.0.3',
     packages = find_packages(),
     install_requires = ['sphinx',
                         'docutils',
