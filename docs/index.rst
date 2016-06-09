@@ -21,7 +21,7 @@ PyExec is on `pip <https://pypi.python.org/pypi/sphinxcontrib-pyexec>`_::
 
     pip install sphinxcontrib-pyexec
 
-or install from source::
+or install from `source <https://github.com/3ptscience/sphinxcontrib-pyexec>`_::
 
     git clone https://github.com/3ptscience/sphinxcontrib-pyexec/
 
@@ -34,6 +34,11 @@ and add :code:`pyexec` to your extensions.
 .. code:: python
 
     extensions = ['pyexec']
+
+Developers
+----------
+
+View the source code on `github <https://github.com/3ptscience/sphinxcontrib-pyexec>`_
 
 Based on
 --------
