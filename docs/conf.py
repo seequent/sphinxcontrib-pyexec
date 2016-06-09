@@ -58,7 +58,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PyExec'
+project = u'pyexec'
 copyright = u'2016, 3point Science, Inc.'
 author = u'3point Science, Inc.'
 
