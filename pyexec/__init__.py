@@ -1,1 +1,1 @@
-from pyexec import PyExec, setup
+from .pyexec import PyExec, setup
