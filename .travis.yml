@@ -20,7 +20,6 @@ before_install:
 install:
   - conda install --yes pip python=$TRAVIS_PYTHON_VERSION numpy scipy nose sphinx
   - pip install nose-cov python-coveralls
-  - python setup.py
   - pip install -r requirements.txt
 
 # Run test
