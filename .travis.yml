@@ -13,7 +13,7 @@ install:
 
 # Run test
 script:
-  - nosetests --with-cov --cov sphinxcontrib-pyexec -v -s
+  - nosetests --with-cov --cov pyexec -v -s
 
 notifications:
   slack: 3point:n4uGopqXrpbYFbslpV5z0tyO
